@@ -1,0 +1,13 @@
+C:\Users\Vyche\OneDrive\Рабочий стол\Zad3Hard\bin\Debug\netcoreapp3.1\Zad3Hard.exe
+C:\Users\Vyche\OneDrive\Рабочий стол\Zad3Hard\bin\Debug\netcoreapp3.1\Zad3Hard.deps.json
+C:\Users\Vyche\OneDrive\Рабочий стол\Zad3Hard\bin\Debug\netcoreapp3.1\Zad3Hard.runtimeconfig.json
+C:\Users\Vyche\OneDrive\Рабочий стол\Zad3Hard\bin\Debug\netcoreapp3.1\Zad3Hard.runtimeconfig.dev.json
+C:\Users\Vyche\OneDrive\Рабочий стол\Zad3Hard\bin\Debug\netcoreapp3.1\Zad3Hard.dll
+C:\Users\Vyche\OneDrive\Рабочий стол\Zad3Hard\bin\Debug\netcoreapp3.1\Zad3Hard.pdb
+C:\Users\Vyche\OneDrive\Рабочий стол\Zad3Hard\obj\Debug\netcoreapp3.1\Zad3Hard.csprojAssemblyReference.cache
+C:\Users\Vyche\OneDrive\Рабочий стол\Zad3Hard\obj\Debug\netcoreapp3.1\Zad3Hard.AssemblyInfoInputs.cache
+C:\Users\Vyche\OneDrive\Рабочий стол\Zad3Hard\obj\Debug\netcoreapp3.1\Zad3Hard.AssemblyInfo.cs
+C:\Users\Vyche\OneDrive\Рабочий стол\Zad3Hard\obj\Debug\netcoreapp3.1\Zad3Hard.csproj.CoreCompileInputs.cache
+C:\Users\Vyche\OneDrive\Рабочий стол\Zad3Hard\obj\Debug\netcoreapp3.1\Zad3Hard.dll
+C:\Users\Vyche\OneDrive\Рабочий стол\Zad3Hard\obj\Debug\netcoreapp3.1\Zad3Hard.pdb
+C:\Users\Vyche\OneDrive\Рабочий стол\Zad3Hard\obj\Debug\netcoreapp3.1\Zad3Hard.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Vyche\OneDrive\Рабочий стол\Zad3Es_lev\obj\Debug\netcoreapp3.1\Zad3Es_lev.csprojAssemblyReference.cache
+C:\Users\Vyche\OneDrive\Рабочий стол\Zad3Es_lev\obj\Debug\netcoreapp3.1\Zad3Es_lev.AssemblyInfoInputs.cache
+C:\Users\Vyche\OneDrive\Рабочий стол\Zad3Es_lev\obj\Debug\netcoreapp3.1\Zad3Es_lev.AssemblyInfo.cs
+C:\Users\Vyche\OneDrive\Рабочий стол\Zad3Es_lev\obj\Debug\netcoreapp3.1\Zad3Es_lev.csproj.CoreCompileInputs.cache
+C:\Users\Vyche\OneDrive\Рабочий стол\Zad3Es_lev\bin\Debug\netcoreapp3.1\Zad3Es_lev.exe
+C:\Users\Vyche\OneDrive\Рабочий стол\Zad3Es_lev\bin\Debug\netcoreapp3.1\Zad3Es_lev.deps.json
+C:\Users\Vyche\OneDrive\Рабочий стол\Zad3Es_lev\bin\Debug\netcoreapp3.1\Zad3Es_lev.runtimeconfig.json
+C:\Users\Vyche\OneDrive\Рабочий стол\Zad3Es_lev\bin\Debug\netcoreapp3.1\Zad3Es_lev.runtimeconfig.dev.json
+C:\Users\Vyche\OneDrive\Рабочий стол\Zad3Es_lev\bin\Debug\netcoreapp3.1\Zad3Es_lev.dll
+C:\Users\Vyche\OneDrive\Рабочий стол\Zad3Es_lev\bin\Debug\netcoreapp3.1\Zad3Es_lev.pdb
+C:\Users\Vyche\OneDrive\Рабочий стол\Zad3Es_lev\obj\Debug\netcoreapp3.1\Zad3Es_lev.dll
+C:\Users\Vyche\OneDrive\Рабочий стол\Zad3Es_lev\obj\Debug\netcoreapp3.1\Zad3Es_lev.pdb
+C:\Users\Vyche\OneDrive\Рабочий стол\Zad3Es_lev\obj\Debug\netcoreapp3.1\Zad3Es_lev.genruntimeconfig.cache

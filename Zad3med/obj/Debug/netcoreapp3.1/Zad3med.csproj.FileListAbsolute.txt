@@ -1,0 +1,13 @@
+C:\Users\Vyche\OneDrive\Рабочий стол\Zad3med\bin\Debug\netcoreapp3.1\Zad3med.exe
+C:\Users\Vyche\OneDrive\Рабочий стол\Zad3med\bin\Debug\netcoreapp3.1\Zad3med.deps.json
+C:\Users\Vyche\OneDrive\Рабочий стол\Zad3med\bin\Debug\netcoreapp3.1\Zad3med.runtimeconfig.json
+C:\Users\Vyche\OneDrive\Рабочий стол\Zad3med\bin\Debug\netcoreapp3.1\Zad3med.runtimeconfig.dev.json
+C:\Users\Vyche\OneDrive\Рабочий стол\Zad3med\bin\Debug\netcoreapp3.1\Zad3med.dll
+C:\Users\Vyche\OneDrive\Рабочий стол\Zad3med\bin\Debug\netcoreapp3.1\Zad3med.pdb
+C:\Users\Vyche\OneDrive\Рабочий стол\Zad3med\obj\Debug\netcoreapp3.1\Zad3med.csprojAssemblyReference.cache
+C:\Users\Vyche\OneDrive\Рабочий стол\Zad3med\obj\Debug\netcoreapp3.1\Zad3med.AssemblyInfoInputs.cache
+C:\Users\Vyche\OneDrive\Рабочий стол\Zad3med\obj\Debug\netcoreapp3.1\Zad3med.AssemblyInfo.cs
+C:\Users\Vyche\OneDrive\Рабочий стол\Zad3med\obj\Debug\netcoreapp3.1\Zad3med.csproj.CoreCompileInputs.cache
+C:\Users\Vyche\OneDrive\Рабочий стол\Zad3med\obj\Debug\netcoreapp3.1\Zad3med.dll
+C:\Users\Vyche\OneDrive\Рабочий стол\Zad3med\obj\Debug\netcoreapp3.1\Zad3med.pdb
+C:\Users\Vyche\OneDrive\Рабочий стол\Zad3med\obj\Debug\netcoreapp3.1\Zad3med.genruntimeconfig.cache
